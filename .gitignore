@@ -1,0 +1,9 @@
+# Archivos de sistema
+.cache/
+.config/
+.ssh/
+.bash_history
+.bashrc
+.profile
+.wget-hsts
+.snap/
